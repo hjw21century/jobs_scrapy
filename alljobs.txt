@@ -1,0 +1,1002 @@
+------------------------[1]----------------------
+head: https://www.freelancer.com/Hi prudent website developer needed asap
+detailurl: /projects/website-design/prudent-website-developer-needed-asap-28327097/
+deadline: 20201203
+description: WHO CAN BUILD MY WEBSITE BAR/HOTEL ASAP
+wilkins-donald-82@-gmail/c*0*M
+tags: CSS|Graphic Design|HTML|PHP|Website Design
+price: $750 - $1500
+price: $750 - $1500
+------------------------[2]----------------------
+head: https://www.freelancer.com/are you ready to build my website
+detailurl: /projects/php/are-you-ready-build-website-28327096/
+deadline: 20201203
+description: Hi website developer needed asap
+wilkins_donald-gm/ail.C*0*M
+tags: Graphic Design|HTML|PHP|Website Design|WordPress
+price: $750 - $1500
+price: $750 - $1500
+------------------------[3]----------------------
+head: https://www.freelancer.com/Product Packing Labels
+detailurl: /contest/product-packing-labels-1853732.html
+deadline: 20201129
+description: We are a haberdashery company called The Bead Shop,
+
+We need a label designed for a product line, the label has to be within our branding styles. 
+
+each label need to have space to put each variation of the product details, an example link below of products;
+
+[login to view URL]
+
+I have attached our logo and brand name and example of the reel label and example of the packet label 
+
+colours:
+#EC008...
+tags: Brochure Design|Corporate Identity|Covers & Packaging|Graphic Design|Logo Design
+price: $200
+price: $200
+------------------------[4]----------------------
+head: https://www.freelancer.com/Lalit kunar
+detailurl: /projects/mobile-phone/lalit-kunar/
+deadline: 20201203
+description: I need a mobile site. I already have a design for it, I just need it to be built.
+tags: HTML|Mobile App Development
+price: $1 - $5 / hr
+price: $1 - $5 / hr
+------------------------[5]----------------------
+head: https://www.freelancer.com/Expert                                                  Wikipedia                          Publisher
+detailurl: /projects/editing/expert-wikipedia-publisher-28327092/
+deadline: 20201203
+description: Hi i will share the details with the shortlisted candidates. Thanks
+tags: Article Writing|Editing|Publishing|WIKI|Wikipedia
+price: $14 - $21 / hr
+price: $14 - $21 / hr
+------------------------[6]----------------------
+head: https://www.freelancer.com/Scala developer
+detailurl: /projects/java/scala-developer-28327082/
+deadline: 20201203
+description: Need to make code changes using scala, got hub, Jira stories
+tags: Agile Development|Atlassian Jira|GitHub|Java|Scala
+price: $10 - $30
+price: $10 - $30
+------------------------[7]----------------------
+head: https://www.freelancer.com/Write       &  Publish      a       Journal         Article
+detailurl: /projects/technical-writing/write-publish-journal-article-28327094/
+deadline: 20201203
+description: Hi i will share the details with the shortlisted candidates. thanks
+tags: Article Writing|Journalism|Publishing|Research Writing|Technical Writing
+price: $14 / hr
+price: $14 / hr
+------------------------[8]----------------------
+head: https://www.freelancer.com/data Entry and copy past Data proccesing
+detailurl: /projects/data-processing/data-entry-copy-past-data/
+deadline: 20201203
+description: I have some work, in an Excel spreadsheet.
+tags: Data Entry|Data Processing|Excel
+price: $2 / hr
+price: $2 / hr
+------------------------[9]----------------------
+head: https://www.freelancer.com/3d video of a bicycle -- 2
+detailurl: /projects/rendering/video-bicycle/
+deadline: 20201203
+description: This is a 3D video of a bicycle, showing how it folds up
+tags: 3D Animation|3D Design|3D Modelling|3D Rendering|Video Services
+price: $516
+price: $516
+------------------------[10]----------------------
+head: https://www.freelancer.com/Web and Mobile app for an ecommerce customer
+detailurl: /projects/android/web-mobile-app-for-ecommerce/
+deadline: 20201203
+description: Looking for a freelancer/company having experience in mobile and web development. Mobile app should work in both Android and IOS. 
+
+Features would be similar to Amazon/Myntra or any other ecommerce platform.
+tags: Android|iPad|iPhone|Mobile App Development
+price: $2373
+price: $2373
+------------------------[11]----------------------
+head: https://www.freelancer.com/Lalit kumar
+detailurl: /projects/data-entry/lalit-kumar/
+deadline: 20201203
+description: I need a mobile site. I already have a design for it, I just need it to be built.
+tags: Data Entry|HTML|Mobile App Development
+price: $20 - $169
+price: $20 - $169
+------------------------[12]----------------------
+head: https://www.freelancer.com/Logo for a jewellery company
+detailurl: /contest/logo-for-a-jewellery-company-1853731.html
+deadline: 20201203
+description: I want a Logo (typographic), modern, elegant and timeless. 
+Colors: nude tones, red, gold 
+Company name: Shamoun Jewellery
+tags: Graphic Design|Illustrator|Logo Design|Photoshop
+price: $25
+price: $25
+------------------------[13]----------------------
+head: https://www.freelancer.com/Mechanical Engineering work -- 3
+detailurl: /projects/mechanical-engineering/mechanical-engineering-work-28327073/
+deadline: 20201203
+description: I want someone who can do mechanical engineering work for me. It needs to be done ASAP
+tags: Chemical Engineering|Engineering|Materials Engineering|Mechanical Engineering|Solidworks
+price: $25
+price: $25
+------------------------[14]----------------------
+head: https://www.freelancer.com/photo rendering for architecture
+detailurl: /projects/threed-modelling/photo-rendering-for-architecture/
+deadline: 20201203
+description: I need to measure all the piles under my house. I would like to use one or more iphones to image around the piles and create a 3D model.
+tags: 3D Design|3D Modelling|3D Rendering|3ds Max
+price: $100
+price: $100
+------------------------[15]----------------------
+head: https://www.freelancer.com/Geocaching (Pokemon Go) Style Joomla Component/ Module
+detailurl: /projects/joomla/geocaching-pokemon-style-joomla/
+deadline: 20201203
+description: We are looking for a multi-use geocaching module/ component for Joomla, this must be web-based, viewable on mobile devices WITHOUT additional mobile apps or software.
+
+Please note responses just stating "i can do this" will be ignored we are setting a realistic developer price and expect a professional response.
+tags: Augmented Reality|CSS|Geolocation|Joomla|PHP
+price: $3688
+price: $3688
+------------------------[16]----------------------
+head: https://www.freelancer.com/Opensubtitles API save subtitles
+detailurl: /projects/php/opensubtitles-api-save-subtitles/
+deadline: 20201203
+description: I want to get subtitles in all lanagues from [login to view URL]
+
+Subtitles should be converted to .vtt files
+They should be saved into folders like EN, CN, RO with a desired name from another script.
+The script should run when a link is visited in background and gather all the subs. More details in private.
+tags: AJAX|JavaScript|PHP
+price: $150
+price: $150
+------------------------[17]----------------------
+head: https://www.freelancer.com/Instagram for beauty center
+detailurl: /projects/social-media-marketing/instagram-for-beauty-center/
+deadline: 20201203
+description: Looking for someone to publish 2/3 Instagram posts per week for my beauty salon. I will provide content (text and pictures), you schedule the posts, use the right hashtags, report back to me, optimize my Instagram profile. I want to work with a person 1-1, not an agency. Monthly fee.
+tags: Instagram|Instagram Marketing|Social Media Marketing|Social Networking
+price: $223
+price: $223
+------------------------[18]----------------------
+head: https://www.freelancer.com/Design Facebook post for gaming website.
+detailurl: /contest/design-facebook-post-for-gaming-website-1853729.html
+deadline: 20201203
+description: Design banner for gaming website.
+1024*768 
+Can work long term if your design meet my requirement.
+tags: Banner Design
+price: $80
+price: $80
+------------------------[19]----------------------
+head: https://www.freelancer.com/ASIC £¬MEMS design
+detailurl: /projects/electronics/asic-mems-design/
+deadline: 20201203
+description: design£¬layout and simulation of a single-axis MEMS accelerometer
+tags: Electrical Engineering|Electronic Design|Electronics
+price: $27 - $334
+price: $27 - $334
+------------------------[20]----------------------
+head: https://www.freelancer.com/Student appeal on  administrative withdraw from doctoral program
+detailurl: /projects/research-writing/student-appeal-administrative-withdraw/
+deadline: 20201203
+description: I received a notice of administrative withdraw from Capella University doctoral program of social work. I have 86 credits in the program , plus I am currently in phase 2 of a 5 phase capstone. I have until January 8th to send in appeal. I to write a draft of my circumstances.
+tags: Research Writing
+price: $68
+price: $68
+------------------------[21]----------------------
+head: https://www.freelancer.com/Payment gateway - Amount is not updating in wallet
+detailurl: /projects/php/payment-gateway-amount-not-updating/
+deadline: 20201203
+description: We have a fully functional app, integrated with razorpay. but razorpay transaction is not being update in database.
+tags: Android|MySQL|PHP
+price: $20
+price: $20
+------------------------[22]----------------------
+head: https://www.freelancer.com/Animated Explainer Video
+detailurl: /projects/animation/animated-explainer-video-28327052/
+deadline: 20201203
+description: I am looking for somebody to create an expliner add for socisl medis for my Tennt finder company. I already have the voiceover son only need the animation and background music. The add will be approximately 40 seconds to  1minute
+tags: 3D Animation|After Effects|Animation|Video Editing|Video Services
+price: $60
+price: $60
+------------------------[23]----------------------
+head: https://www.freelancer.com/Icon Illustration
+detailurl: /projects/icon-design/icon-illustration/
+deadline: 20201203
+description: Hey, need 6 custom icons in the same style as image attached but different food items.
+tags: Graphic Design|Icon Design|Illustration|Illustrator|Logo Design
+price: $133
+price: $133
+------------------------[24]----------------------
+head: https://www.freelancer.com/needed serious help with Computer security program using C
+detailurl: /projects/c-programming/needed-serious-help-with-computer/
+deadline: 20201203
+description: I have a Computer security program that keeps giving an error. I would like someone to look at the code to give better understanding of the bugs.
+tags: C Programming
+price: $20
+price: $20
+------------------------[25]----------------------
+head: https://www.freelancer.com/Cabinet Portal Mechanical Drawings including motors and gears
+detailurl: /projects/mechanical-engineering/cabinet-portal-mechanical-drawings/
+deadline: 20201203
+description: Design and drawing development of an RFID cabinet portal.  Mush have experience in sheet metal construction design as well as motorised applications
+tags: Electronics|Mechanical Engineering
+price: $392
+price: $392
+------------------------[26]----------------------
+head: https://www.freelancer.com/Designer needed
+detailurl: /projects/graphic-design/designer-needed-28327046/
+deadline: 20201203
+description: Need a graphic designer. We want the screens of our developed mobile apps arranged in a fashionable way as per the references will be provided. We will use the final images to showcase our app development portfolio in our website.
+
+There are around 7 to 8 applications, the screens will be provided. The designer will need to showcase them as single images. 
+
+Budget not more than 600/INR. Time neede...
+tags: Banner Design|Graphic Design|Illustrator|Photoshop|Photoshop Design
+price: $8
+price: $8
+------------------------[27]----------------------
+head: https://www.freelancer.com/Google Analytics - Tag Manager Expert
+detailurl: /projects/google-analytics/google-analytics-tag-manager-expert-28326972/
+deadline: 20201203
+description: Hello, 
+
+i would like to configurate my Google Analytics to my website in order to configurate:
+
+- Purchase Conversions
+- Leads Conversions
+
+It will be needed to professionally  install the code that provides google to my website.
+tags: Google Adwords|Google Analytics|Google Tag Management
+price: $54
+price: $54
+------------------------[28]----------------------
+head: https://www.freelancer.com/Graphics Designer Required
+detailurl: /projects/graphic-design/graphics-designer-required-28327043/
+deadline: 20201203
+description: Hello, 
+
+I need an experienced individual on Graphics Design for Designing Social Media Posters, logos and other marketing and branding stuffs. 
+
+Experienced people should bid with portfolio and Graphics Rocks text on heading of the bid. 
+
+Thanks!
+tags: Banner Design|Graphic Design|Logo Design|Photoshop|Photoshop Design
+price: $107
+price: $107
+------------------------[29]----------------------
+head: https://www.freelancer.com/Website simple
+detailurl: /projects/website-design/website-simple-28326964/
+deadline: 20201203
+description: need a website, I have pdf text logos etc just need a simple information site
+tags: Graphic Design|HTML|PHP|Website Design|WordPress
+price: $263
+price: $263
+------------------------[30]----------------------
+head: https://www.freelancer.com/Need a professional Logo for my cooperation using PSD or Ai format - Arabic and English
+detailurl: /projects/logo-design/need-professional-logo-for-cooperation-28327039/
+deadline: 20201203
+description: Hi there,
+
+My company is all about selling multiple unique products that are high in demand but not that popular.
+
+Based on the above sentence I would like to design a unique logo something that has never been done before by looking at long run benefits. 
+
+Requirement:
+Creative Mind
+Arabic and English speaker
+Ability to try multiple times
+Expert at PSD Adobe Photoshop
+Good at AI, Adobe Intelligenc...
+tags: Arabic|Graphic Design|Illustrator|Logo Design|Photoshop
+price: $9 / hr
+price: $9 / hr
+------------------------[31]----------------------
+head: https://www.freelancer.com/Hydraulic Model with WaterGems
+detailurl: /projects/civil-engineering/hydraulic-model-with-watergems/
+deadline: 20201203
+description: Looking for dynamic hydraulic modelers working on Watergems for Water Distribution project based in India.
+tags: Civil Engineering
+price: $8 - $20
+price: $8 - $20
+------------------------[32]----------------------
+head: https://www.freelancer.com/json-server API info to vuesax list and charts (simple project)
+detailurl: /projects/javascript/json-server-api-info-vuesax/
+deadline: 20201203
+description: Hi all,
+
+Im currently doing a little side project to learn a bit more about vue and javascript and i keep running into issues/questions related to how to do the code to get to the solution that i want.
+
+basically looking for someone that can do skype/zoom/whatever sessions (pref. zoom) with me while we look at the code and you tell/show/code the proper way to get to what i want.
+
+its all very basi...
+tags: CSS|HTML|JavaScript|jQuery / Prototype|Vue.js
+price: $312
+price: $312
+------------------------[33]----------------------
+head: https://www.freelancer.com/UK tax advisor to complete my annual tax returns
+detailurl: /projects/accounting/tax-advisor-complete-annual-tax/
+deadline: 20201203
+description: I need a UK tax advisor to complete my annual tax returns
+tags: Accounting|Finance|Intuit QuickBooks|PHP|Tax Law
+price: $501
+price: $501
+------------------------[34]----------------------
+head: https://www.freelancer.com/Color correction (47 photos) - Furniture retouching - URGENT
+detailurl: /projects/photo-retouching/color-correction-photos-furniture/
+deadline: 20201203
+description: We need a photo retouching expert in order to change the color correction of 47 photos (shadows and highlights) - Valuate experience in Furniture retouching - URGENT .
+Deadline : Tomorrow
+tags: Photo Editing|Photo Retouching
+price: $91
+price: $91
+------------------------[35]----------------------
+head: https://www.freelancer.com/Article writing - Content writing - Blog writing -
+detailurl: /projects/articles/article-writing-content-writing-blog-28327037/
+deadline: 20201203
+description: Copywriter needed.
+We are looking for long term writing talents.
+Topics will be given in advance.
+We would need articles in languages such as - English, Hindi, Tamil and Telugu.
+Each article needs 1000- 1200 words and we shall provide writing materials and information about the product. Everything else could be found on the internet by using search engines such as Google or Bing.
+Each article shou...
+tags: Article Writing|Content Writing|Ghostwriting|Product Descriptions
+price: $77
+price: $77
+------------------------[36]----------------------
+head: https://www.freelancer.com/Urgent Require a Security Guard For Mobile Showroom In Uttam Nagar
+detailurl: /projects/security/urgent-require-security-guard-for/
+deadline: 20201203
+description: Salary :- 10,000 to 11,000
+Experience :- 6To12 Months
+Job Timing :- 11AM To 9 PM
+Job Location : - Uttam Nagar, New Delhi
+Mob:- 9667756026
+tags: Security
+price: $20 - $169
+price: $20 - $169
+------------------------[37]----------------------
+head: https://www.freelancer.com/Website responsive issue - React Js
+detailurl: /projects/react-js/website-responsive-issue-react/
+deadline: 20201203
+description: Hello All,
+I have a website designed and I am facing a lot of responsive issues. Can someone help me find out what exactly is the issue and some idea, how to fix it?
+Note: I just need your guidance, you need not work for the website.
+Thank you
+tags: CSS|HTML5|React.js|Website Design|Website Testing
+price: $3 / hr
+price: $3 / hr
+------------------------[38]----------------------
+head: https://www.freelancer.com/app development
+detailurl: /projects/android/app-development-28326944/
+deadline: 20201203
+description: We are looking for experince app developer to make our Grocery deliver app . it must have delivery boy access,admin access, gps tracking, admob intergration, stripe integration and etc . we need it for bot android and ios.
+tags: Android|iPhone|Mobile App Development|PHP|Software Architecture
+price: $2473
+price: $2473
+------------------------[39]----------------------
+head: https://www.freelancer.com/Maltivendor E commerce application
+detailurl: /projects/php/maltivendor-commerce-application/
+deadline: 20201203
+description: e commerce maltivendor application and seller panel admin panel
+tags: eCommerce|HTML|MySQL|PHP|Website Design
+price: $1528
+price: $1528
+------------------------[40]----------------------
+head: https://www.freelancer.com/Write Blog on space topic
+detailurl: /projects/articles/write-blog-space-topic/
+deadline: 20201203
+description: Write Blog article on given space topic. Space topic such as 'SPACE X SUCCESSFULLY LAUNCHED ASTRONAUT TO ISS'. The article should be 1500-2000. Article should be SEO friendly and should include everything trending related to the Topic. Means article should include full case study of given topic. Further information will be provided you later.
+tags: Article Rewriting|Article Writing|Blog|Content Writing|Ghostwriting
+price: $800
+price: $800
+------------------------[41]----------------------
+head: https://www.freelancer.com/Data entry -- 3
+detailurl: /projects/data-entry/data-entry-28327038/
+deadline: 20201203
+description: I need you to fill in a spreadsheet with data.
+tags: Data Entry|Excel
+price: $17
+price: $17
+------------------------[42]----------------------
+head: https://www.freelancer.com/Convert PDF into Word
+detailurl: /projects/word/convert-pdf-into-word-28326930/
+deadline: 20201203
+description: We would like to convert PDF into a Word
+tags: Copy Typing|Data Entry|Excel|PDF|Word
+price: $278
+price: $278
+------------------------[43]----------------------
+head: https://www.freelancer.com/SEO Service, Robobabez.com
+detailurl: /projects/google-analytics/seo-service-robobabez-com/
+deadline: 20201203
+description: SEO Service for our website and online store, professional team required to improve our Google ranking results and backlinks, Sociol media and all SEO services, Our website is excellent and already has a very high SEO Score also our ranking is very good but needs vast [login to view URL] do not wish to engage with persons with no reviews or expertise in this [login to view URL] also have been with...
+tags: Google Analytics|Google Web Toolkit|Google Webmaster Tools|Keyword Research|SEO
+price: $88
+price: $88
+------------------------[44]----------------------
+head: https://www.freelancer.com/Need a dedicated Nodejs developer, worked on AWS with minimum 4 years of experience remotely
+detailurl: /projects/amazon-web-services/need-dedicated-nodejs-developer-worked/
+deadline: 20201203
+description: Hi All,
+
+We are looking for dedicated  nodejs developer with 4+ years of experience, must have previously worked in AWS {Amazon Web Services}.
+
+Thanks!!
+tags: Amazon Web Services|JavaScript|Node.js|NoSQL Couch & Mongo|PHP
+price: $1015
+price: $1015
+------------------------[45]----------------------
+head: https://www.freelancer.com/Facebook Ad Specialist
+detailurl: /projects/facebook-marketing/facebook-specialist-28327022/
+deadline: 20201203
+description: Hello, 
+
+I need an experienced individual on Facebook Ads to promote my website services. 
+
+Experienced peoples should bid with portfolios and Facebook Ads Rocks text. 
+
+Thanks!
+tags: Advertising|Facebook Marketing|Internet Marketing|Social Media Marketing|Twitter
+price: $89
+price: $89
+------------------------[46]----------------------
+head: https://www.freelancer.com/Thermal Calculations inside a container
+detailurl: /projects/mechanical-engineering/thermal-calculations-inside-container/
+deadline: 20201203
+description: I need to study the thermal behaviour inside an insulated container with HVAC considering the possible openings and the temperature fluctuations outside.
+tags: Electrical Engineering|Engineering|Mechanical Engineering|Thermal Analysis
+price: $161
+price: $161
+------------------------[47]----------------------
+head: https://www.freelancer.com/Wordpress - Create single listing page on Pro Theme with Easy Property Listing
+detailurl: /projects/php/wordpress-create-single-listing-page/
+deadline: 20201203
+description: I have a site that I need help with due to time. I need to create a [login to view URL] which looks identical to [login to view URL]  
+
+The staging site is [login to view URL]  
+
+I already have the [login to view URL] file added to my child theme which is where you'd need to make all the changes. 
+
+Easy Property Listing is already installed.  
+
+Can you do this? How much? and How soon can you ...
+tags: CSS|HTML|PHP|WordPress
+price: $132
+price: $132
+------------------------[48]----------------------
+head: https://www.freelancer.com/Presentation for Operations management  -- 2
+detailurl: /projects/report-writing/presentation-for-operations-management/
+deadline: 20201203
+description: A presentation is needed to be created for 1000 words on operations management
+tags: Report Writing|Research Writing|Statistics
+price: $33
+price: $33
+------------------------[49]----------------------
+head: https://www.freelancer.com/Fast Food Restaurant
+detailurl: /projects/graphic-design/fast-food-restaurant/
+deadline: 20201203
+description: QSR resturant startup looking for Brand naming and logo design experties
+tags: Brand Management|Branding|Digital Marketing|Graphic Design
+price: $45
+price: $45
+------------------------[50]----------------------
+head: https://www.freelancer.com/Adobe XD to Full Responsive HTML / CSS /JS template
+detailurl: /projects/css/adobe-full-responsive-html-css/
+deadline: 20201203
+description: Hello, i need help with convert Adobe XD project to Full Responsive website, with HTML / CSS / JAVA SCRIPT technology. Google PageSpeed should be ~80+
+
+-------------------------------------------------------------------------------------------------------
+
+Project is here: [login to view URL]
+Password to previews: wdUH2341
+
+There is Homepage with this elements:
+- Logo, and fixed menu with dropdown...
+tags: CSS|HTML|HTML5|JavaScript|Website Design
+price: $56
+price: $56
+------------------------[51]----------------------
+head: https://www.freelancer.com/Hi there, we have a scanned document we need it back in word file.
+detailurl: /projects/data-entry/there-have-scanned-document-need-28327019/
+deadline: 20201203
+description: Hi there, we have a scanned document we need it back in word file.
+tags: Data Entry|Data Processing|Excel|PDF
+price: $339
+price: $339
+------------------------[52]----------------------
+head: https://www.freelancer.com/cheapest website
+detailurl: /projects/php/cheapest-website/
+deadline: 20201203
+description: I wanna own a website that can be edit I wish.
+tags: Graphic Design|HTML|PHP|Website Design|WordPress
+price: $40
+price: $40
+------------------------[53]----------------------
+head: https://www.freelancer.com/Create a 3D Unity world
+detailurl: /projects/unity-three-d/create-unity-world/
+deadline: 20201203
+description: I would like to have a Unity world modeled with good level of graphics and effects.
+Some paid assets can be bought to fasten the development process.
+
+Theme: Christmas.. please include any relevant work and the word "christmas" in your proposal.
+
+Details to be sent to interested freelancers.
+tags: 3D Modelling|3ds Max|Blender|Graphic Design|Unity 3D
+price: $193
+price: $193
+------------------------[54]----------------------
+head: https://www.freelancer.com/Re type a document
+detailurl: /projects/word/type-document-28326906/
+deadline: 20201203
+description: We would like to convert pdf into a word
+tags: Copy Typing|Data Entry|Excel|PDF|Word
+price: $526
+price: $526
+------------------------[55]----------------------
+head: https://www.freelancer.com/Build a software for me using c#
+detailurl: /projects/cplusplus-programming/build-software-for-using/
+deadline: 20201203
+description: This software will have all this features shown in guide
+tags: C Programming|C# Programming|C++ Programming|PHP|Software Architecture
+price: $1394
+price: $1394
+------------------------[56]----------------------
+head: https://www.freelancer.com/Need chages for a website
+detailurl: /projects/html/need-chages-for-website/
+deadline: 20201203
+description: I need some changes to an existing website.
+tags: HTML|JavaScript|PHP
+price: $84
+price: $84
+------------------------[57]----------------------
+head: https://www.freelancer.com/Fresher for market research
+detailurl: /projects/data-entry/fresher-for-market-research/
+deadline: 20201203
+description: PERSONAL PROFILE:
+A quality candidate shall show up with
+------------------------[58]----------------------
+head: https://www.freelancer.com/Video Editing
+detailurl: /projects/video-editing/video-editing-28326872/
+deadline: 20201203
+description: Please see below project description ,
+1. Extract the audio from this video [login to view URL]
+2. Edit the extracted audio to explain the functionalities the system you see in this video [login to view URL]
+[login to view URL] the edited audio to above video
+tags: After Effects|Anything Goes|Video Editing|Video Services|Videography
+price: $97
+price: $97
+------------------------[59]----------------------
+head: https://www.freelancer.com/Integrate Paytm Payment Gateway in Wordpress
+detailurl: /projects/wordpress/integrate-paytm-payment-gateway/
+deadline: 20201203
+description: [login to view URL]
+
+Integrate Paytm in this theme
+not a woo-commerce website
+tags: eCommerce|HTML|PHP|Website Design|WordPress
+price: $26
+price: $26
+------------------------[60]----------------------
+head: https://www.freelancer.com/infographic design
+detailurl: /projects/graphic-design/infographic-design-28326876/
+deadline: 20201203
+description: we are a NGO working in the health sector 
+need to get an infographic design made for our internal purpose
+tags: Graphic Design|Illustration|Illustrator|Infographics|Photoshop
+price: $13
+price: $13
+------------------------[61]----------------------
+head: https://www.freelancer.com/Retouching Silicone Rings Images - Full Time Job Opportunity
+detailurl: /contest/retouching-silicone-rings-images-full-time-job-opportunity-1853728.html
+deadline: 20201203
+description: We are a 5 years old company, that sells Silicone Wedding Rings. 
+You can google us "ThunderFit".
+We're looking for a re-touching expert to join our team for a full time work for rate of $5-7 per hour.
+
+If you'll win this contest you'll most likely be hired by us for a long term job at that rate.
+
+Contest Instructions -
+You can find attached an image of silicone wedding ri...
+tags: Graphic Design|Photo Editing|Photoshop|Photoshop Design
+price: $60
+price: $60
+------------------------[62]----------------------
+head: https://www.freelancer.com/build and application
+detailurl: /projects/android/build-application-28326881/
+deadline: 20201203
+description: An application  to connect providers with customers in terms of services and products.
+[login to view URL] app  will promote local shops , drugstores ,groceries to deliver to customer by ordering online . 
+2. Connect customers to  skilled individuals  that provide service such as healthcare, home repairs, agencies, taxi, cleaning etc. 
+[login to view URL] that possess a  manner of transport will ...
+tags: Android|iPhone|Mobile App Development|PHP|Website Design
+price: $1799
+price: $1799
+------------------------[63]----------------------
+head: https://www.freelancer.com/wiki page
+detailurl: /projects/wikipedia/wiki-page-28327006/
+deadline: 20201203
+description: creat wikipedia with my content
+tags: Article Rewriting|Article Writing|Ghostwriting|WIKI|Wikipedia
+price: $16
+price: $16
+------------------------[64]----------------------
+head: https://www.freelancer.com/Scrape Website Today
+detailurl: /projects/web-scraping/scrape-website-today/
+deadline: 20201203
+description: I require a person to scrape a website [login to view URL] at the earliest. I want all of the information from each product including the images placed in a CSV file.
+tags: JavaScript|PHP|Python|Software Architecture|Web Scraping
+price: $148
+price: $148
+------------------------[65]----------------------
+head: https://www.freelancer.com/If youre an amazing Singer hit me up
+detailurl: /projects/audio-services/youre-amazing-singer-hit/
+deadline: 20201203
+description: Looking for this kind of vibe. Must be able to record high quality audio.
+
+[login to view URL]
+tags: Audio Production|Audio Services|Music|Sound Design|Voice Talent
+price: $49
+price: $49
+------------------------[66]----------------------
+head: https://www.freelancer.com/Photo montage -- 2
+detailurl: /projects/photography/photo-montage-28326878/
+deadline: 20201203
+description: Hello. I am searching for a photo montage. I need on 2 photos set a swimmingpool with water and natural sun as well as natural stones around the pool On the right side, stairs for entering the pool and a white stone wall on the left side
+Have a look at the picture how i want it. It muss look very REAL
+I attach the Current picture with the actual montage how i want to have with natural stones and s...
+tags: After Effects|Photo Editing|Photography|Photoshop|Photoshop Design
+price: $82
+price: $82
+------------------------[67]----------------------
+head: https://www.freelancer.com/Marketing and branding
+detailurl: /projects/logo-design/marketing-branding/
+deadline: 20201203
+description: Specialized Dumpling shop and delivery in bangkok Thailand
+tags: Internet Marketing|Logo Design
+price: $94
+price: $94
+------------------------[68]----------------------
+head: https://www.freelancer.com/Civil Engineering Expert (Industrial Project)
+detailurl: /projects/engineering/civil-engineering-expert-industrial/
+deadline: 20201203
+description: Anyone expert in a civil engineering project. Kindly bid so that we can discuss further
+tags: Civil Engineering|Electrical Engineering|Engineering|Mechanical Engineering|Structural Engineering
+price: $119
+price: $119
+------------------------[69]----------------------
+head: https://www.freelancer.com/GT Metrix speed and performance optimization
+detailurl: /projects/php/metrix-speed-performance-optimization/
+deadline: 20201203
+description: GT Metrix speed and performance optimization
+Also check [login to view URL] and schema of the website
+tags: Google PageSpeed Insights|HTML|PHP|WordPress
+price: $43
+price: $43
+------------------------[70]----------------------
+head: https://www.freelancer.com/Retyping a document
+detailurl: /projects/data-entry/retyping-document-28326865/
+deadline: 20201203
+description: I have a 22 page board bylaws document that needs to be retyped in Microsoft Word.  Somehow we have mis-placed the original and all I am stuck with is a PDF that is a mess when converted to text.  So thinking it needs to start from scratch.
+tags: Copy Typing|Data Entry|Microsoft Office|PDF|Web Search
+price: $368
+price: $368
+------------------------[71]----------------------
+head: https://www.freelancer.com/Full-time Graphic & UI Designer Needed
+detailurl: /projects/graphic-design/full-time-graphic-designer-needed-28326978/
+deadline: 20201203
+description: We are looking for a FULL-TIME Graphic Designer to create engaging and on-brand graphics for websites, mobile apps, UI-UX, social media, and a variety of channels.
+
+Core Responsibilities:
+- Study design briefs and determine requirements.
+- Design user interfaces (UI) of websites, applications, and mobile apps based on the given requirement.
+- Conceptualize visuals based on requirements.
+- Prepare ...
+tags: Graphic Design|Illustrator|Photoshop|User Interface / IA|Website Design
+price: $485
+price: $485
+------------------------[72]----------------------
+head: https://www.freelancer.com/Excel spreadsheet Data Input -- 2
+detailurl: /projects/excel/excel-spreadsheet-data-input-28326858/
+deadline: 20201203
+description: Put on excel spreadsheet
+
+copy table into excel
+
+We require this in excel format
+tags: Data Entry|Data Processing|Excel
+price: $16
+price: $16
+------------------------[73]----------------------
+head: https://www.freelancer.com/creat wiki page with my content
+detailurl: /projects/wiki/creat-wiki-page-with-content/
+deadline: 20201203
+description: wikipedia page with my content
+tags: WIKI|Wikipedia
+price: $210
+price: $210
+------------------------[74]----------------------
+head: https://www.freelancer.com/Design logo
+detailurl: /projects/logo-design/design-logo-28326851/
+deadline: 20201203
+description: Pawpino is a fresh food delivery for pets ( cats and dogs ) and also for online store pets accessories
+tags: Graphic Design|Illustrator|Logo Design|Photoshop|Website Design
+price: $27
+price: $27
+------------------------[75]----------------------
+head: https://www.freelancer.com/Add animations on a video, very urgent! MAX BUDGET - 100$
+detailurl: /projects/video-services/add-animations-video-very-urgent/
+deadline: 20201203
+description: MAX BUDGET - 100$
+Here's the main video I've made:
+[login to view URL]
+
+Here's the script (I've highlighted the part where you have to add animations):
+[login to view URL]
+
+Here are some presentation files (+ TRON logo):
+[login to view URL]
+
+Here's a reference video (can be exactly the same, but with tron logo):
+[login to view URL]
+
+NEED FIRST RESULTS WITHIN 1 DAY.
+THEN CO...
+tags: After Effects|Animation|Video Editing|Video Services|Videography
+price: $118
+price: $118
+------------------------[76]----------------------
+head: https://www.freelancer.com/Business Plan for Holograms technology reseller
+detailurl: /projects/business-plans/business-plan-for-holograms-technology/
+deadline: 20201203
+description: As we want be reseller for Holograms technology with one of manufacturing company
+
+We want some one who can help us to develop business Plan
+Business Model
+Marketing Plan
+tags: Augmented Reality|Business Plans|Market Research|Marketing
+price: $29 / hr
+price: $29 / hr
+------------------------[77]----------------------
+head: https://www.freelancer.com/Linux, grepping of a log file (a word) and emailing the number of times it occurred for that day
+detailurl: /projects/linux/linux-grepping-log-file-word/
+deadline: 20201203
+description: I would like a way to receive via email the number of times a word appears in a log file for that day. this can be emailed at 5pm. however the server does not have access to internet just the internal network. we have an internal smtp server. so the process of setting this up as well
+tags: Linux|PHP|System Admin|Ubuntu|UNIX
+price: $13 - $27
+price: $13 - $27
+------------------------[78]----------------------
+head: https://www.freelancer.com/data entry
+detailurl: /projects/dot-net/data-entry-28326847/
+deadline: 20201203
+description: I need you to develop some software for me. I would like this software to be developed for Windows using .NET.
+tags: .NET|Software Architecture|Windows Desktop
+price: $10 / hr
+price: $10 / hr
+------------------------[79]----------------------
+head: https://www.freelancer.com/Need Assistant  for Writing
+detailurl: /projects/anything-goes/need-assistant-for-writing/
+deadline: 20201203
+description: i am looking for assistant to work with me online for 2 months
+tasks : online researches , email responding , data entry , using google translate , contacting clients and suppliers
+tags: Anything Goes|Housework|Virtual Assistant|Word
+price: $16 / hr
+price: $16 / hr
+------------------------[80]----------------------
+head: https://www.freelancer.com/Problem for Semi-Linear Elliptic Equations with Application to Gas Networks
+detailurl: /projects/matlab-mathematica/problem-for-semi-linear-elliptic-28326837/
+deadline: 20201203
+description: I need someone to implement an edp system which is described at the end of the attached article
+tags: Electrical Engineering|Engineering|Engineering Mathematics|Mathematics|Matlab and Mathematica
+price: $156
+price: $156
+------------------------[81]----------------------
+head: https://www.freelancer.com/Adjust settings of an online classes platform (LMS Masterstudy) -- 2
+detailurl: /projects/learning-management-systems/adjust-settings-online-classes-platform-28326827/
+deadline: 20201203
+description: The platform is for online courses but I use it as a platform to hire online classes. The platform is done but the following settings are missing:
+
+The system should be:  the student pays and the teacher receives a notification to agree and take the class online. So, tasks to do are:
+1 - Currently teacher does not receive a notification when a student purchases his class.
+2 - Adjust payment settin...
+tags: eLearning|Learning Management Solution (LMS) Consulting|Learning Management Systems (LMS)|WordPress
+price: $260
+price: $260
+------------------------[82]----------------------
+head: https://www.freelancer.com/c# task in jetbrains rider
+detailurl: /projects/c-sharp-programming/task-jetbrains-rider/
+deadline: 20201203
+description: TaskYou will build up an electronic portfolio of relevantexamples of using data structures and algorithms in solving a variety of [login to view URL] should include:------------------------[83]----------------------
+head: https://www.freelancer.com/------------------------[84]----------------------
+head: https://www.freelancer.com/Building an educational app
+detailurl: /projects/usability-testing/building-educational-app/
+deadline: 20201203
+description: We are interested in usability testing of educational app for learning data visualization using D3js. The app  provides interesting presentation of content, progress and links to relevant job offers.
+tags: Usability Testing
+price: $17 - $34 / hr
+price: $17 - $34 / hr
+------------------------[85]----------------------
+head: https://www.freelancer.com/Data scraping site + categorisation of the data
+detailurl: /projects/web-scraping/data-scraping-site-categorisation-the/
+deadline: 20201203
+description: You need to scrape 5 web-pages from one website (similar format).
+With one extra (6th) other site to see if more data can be added from an other source.
+
+We require all this data to be scraped:
+Mac Adres
+Company name
+Street name
+City
+State
+Zip
+Country
+Category
+Keyword
+
+
+Once data is scraped.
+You need to categorise this data by using keywords per category.
+
+The "keyword" must also be adde...
+tags: Data Mining|Data Processing|Web Scraping
+price: $32
+price: $32
+------------------------[86]----------------------
+head: https://www.freelancer.com/Virtual Assistant based in the US (ongoing project) -- 2
+detailurl: /projects/data-entry/virtual-assistant-based-the-ongoing/
+deadline: 20201203
+description: Looking to hire a Virtual assistant based in the US for our company. If you have basic knowledge in Shipping, Packaging, Marketing, etc. it will be a plus. 
+
+You would be required to assist the procurement team on an as need basis.
+
+If you¡¯re new to freelancing then this is the perfect opportunity as we do NOT require a highly skilled or qualified individual. 
+
+Our budget is $12/hour.
+
+To ap...
+tags: Administrative Support|Data Entry|Packing & Shipping|Virtual Assistant
+price: $10 / hr
+price: $10 / hr
+------------------------[87]----------------------
+head: https://www.freelancer.com/Teamleader
+detailurl: /projects/english-uk/teamleader/
+deadline: 20201203
+description: We are looking for an enthusiastic versatile person with excellent communication skills and also with  perfect solving ability, who can lead our project team
+tags: Communications|English (UK)|Leadership Development|Project Management
+price: $20
+price: $20
+------------------------[88]----------------------
+head: https://www.freelancer.com/Build a website / including crypto payment
+detailurl: /projects/website-design/build-website-including-crypto-payment/
+deadline: 20201203
+description: Hello, 
+I have script of a webmarket that i would like to settle on my server. The script is written in PHP , LARAVEL; 
+I already have managed to install everything, except crypto.
+I need the web site to run and everything works perfectly, including btc payments + monero payments. 
+
+1. we need 2x cryptocurrency server connected and running to the cms
+2. we need the script configured for maximum se...
+tags: HTML|Laravel|MySQL|PHP|Website Design
+price: $247
+price: $247
+------------------------[89]----------------------
+head: https://www.freelancer.com/Geo Studio Software (Industrial Project)
+detailurl: /projects/geotechnical-engineering/geo-studio-software-industrial-project/
+deadline: 20201203
+description: Anyone knows Geo studio software and is from a civil engineering background kindly provide a bid. So that we can discuss further.
+tags: Civil Engineering|Geotechnical Engineering
+price: $20
+price: $20
+------------------------[90]----------------------
+head: https://www.freelancer.com/EBike Design -- 2
+detailurl: /projects/logo-design/ebike-design-28326768/
+deadline: 20201203
+description: I am planning to build a EBike with sporty and premium [login to view URL] for India based designer
+tags: Logo Design|Photoshop|User Interface / IA|Website Design
+price: $285
+price: $285
+------------------------[91]----------------------
+head: https://www.freelancer.com/Rewrite one fifty excel sheets into single word file -- 3
+detailurl: /projects/data-entry/rewrite-one-fifty-excel-sheets-28326767/
+deadline: 20201203
+description: Rewrite one fifty excel sheets into single word file
+tags: Article Rewriting|Article Writing|Data Entry|Excel|Ghostwriting
+price: $320
+price: $320
+------------------------[92]----------------------
+head: https://www.freelancer.com/PHP, MySQL Dropdown with Live Search
+detailurl: /projects/php/php-mysql-dropdown-with-live/
+deadline: 20201203
+description: Hi,
+
+I have a nearly finished script where I need to implement a live search from a table with 6 fields. I need to have a dropdown search field which fetches thru the 6 fields and should add the fields ebene_1_nr, ebene_2_nr, ebene_3_nr to the fields slug_1, slug_2, slug_3 of table ocr.
+
+Attached is the nearly working script: [login to view URL] is not showing results, should be reworked to pdo in...
+tags: AJAX|JavaScript|MySQL|PHP|Software Architecture
+price: $30
+price: $30
+------------------------[93]----------------------
+head: https://www.freelancer.com/Article writing and Type books
+detailurl: /projects/articles/article-writing-type-books/
+deadline: 20201203
+description: Hi,
+I have old hand written books to type again to word.
+tags: Article Rewriting|Article Writing|Copywriting|Ghostwriting|Research Writing
+price: $347
+price: $347
+------------------------[94]----------------------
+head: https://www.freelancer.com/Move data from 2000 Excel files into one file
+detailurl: /projects/data-processing/move-data-from-excel-files-28326752/
+deadline: 20201203
+description: Have 2000 Excel files that need to be 12 combined into one main file. Each of the files only has around 30-50 lines of data so it's a simple copy and paste job.i need this.
+tags: Copy Typing|Data Entry|Data Processing|Excel|Word
+price: $19 / hr
+price: $19 / hr
+------------------------[95]----------------------
+head: https://www.freelancer.com/Design a flyer
+detailurl: /contest/design-a-flyer-1853718.html
+deadline: 20201210
+description: Design a flyer for an electric bike hiring business.
+Please check the features and price from its website
+[login to view URL]
+
+Attached are some photos of one of the electric bike the company has currently.
+
+The flyer must include the following details:
+1. Both sided coloured
+2. Photos of the attached E-Bike - You decide which photo you want to use
+3. Things that are provided free of charge to cus...
+tags: Adobe InDesign|Flyer Design|Graphic Design|Photoshop|Print
+price: $22
+price: $22
+------------------------[96]----------------------
+head: https://www.freelancer.com/Customization for LMS Moodle plugin "unilabel"
+detailurl: /projects/php/customization-for-lms-moodle-plugin/
+deadline: 20201203
+description: The Moodle plugin "mod_unilabel" enables you to include some nice formated text. There are 5 different content types included (extendable sub plugins): - Simple text - Carousel - Collapsed text - Course teaser - Topic teaser.
+
+With the "Carousel", you can you can define a series of images. Each image is shown in a slide show. You can also define a caption to each image that is ...
+tags: CSS|HTML|Moodle|PHP
+price: $174
+price: $174
+------------------------[97]----------------------
+head: https://www.freelancer.com/English subtitles and voice over (Female & Male) on French videos
+detailurl: /projects/french/english-subtitles-voice-over-female/
+deadline: 20201203
+description: Hi,
+I have a set of 4 French Videos (good sound quality) on which I would like to add English subtitles and English voice over (Female and Male). The 4 video is a total or around 45 min of video
+It means I need a translation service (From French to English) + adding of (English) subtitles + making the English voice over the video and adding everything on my video format.
+THIS MEANS I DON'T HA...
+tags: Audio Services|English (US)|French|Video Services|Voice Talent
+price: $81
+price: $81
+------------------------[98]----------------------
+head: https://www.freelancer.com/Develop an Ethereum Based Game like GodsUnchained.com!
+detailurl: /projects/javascript/develop-ethereum-based-game-like/
+deadline: 20201203
+description: Hello,
+
+I am looking for someone who is capable of developing a game much like [login to view URL] with smart contract capabilities and NFT cards. The game would work nearly exactly the same with different theme.
+
+Please respond with your pricing and expertise. I would like to begin immediately, but will not pay ridiculous amounts!
+tags: Blockchain|Ethereum|JavaScript|Node.js|Unity 3D
+price: $6537
+price: $6537
+------------------------[99]----------------------
+head: https://www.freelancer.com/One Page Design
+detailurl: /projects/graphic-design/one-page-design-28326720/
+deadline: 20201203
+description: Im looking for one page design URGENTLY
+details will be inbox 
+Budget : 10$
+tags: CSS|Graphic Design|HTML|PHP|Website Design
+price: $7 - $22
+price: $7 - $22
+------------------------[100]----------------------
+head: https://www.freelancer.com/Need some Php deliver and someone good in redirecting website
+detailurl: /projects/php/need-some-php-deliver-someone/
+deadline: 20201203
+description: What's the simplest method to redirect user to my web site each time it connects to my Wi-Fi? if anyone know ? can you teach me how?
+tags: HTML|JavaScript|MySQL|PHP|Website Design
+price: $170
+price: $170
